@@ -264,8 +264,12 @@
 ;;; ADD YOUR TYPES HERE!
 ;;;
 
-
-
+(define-struct (furniture prop)
+  ())
+(define-struct (applicance prop)
+  ())
+(define-struct (tool prop)
+  ())
 
 
 
